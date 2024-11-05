@@ -15,6 +15,7 @@ public class NumFinder {
         }
     }
 
+
     public int getSmallest () {
         return smallest;
     }
